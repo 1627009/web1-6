@@ -12,6 +12,12 @@ body{
   background-color:white;
 }
 
+.gamemarket_picture:after{
+  content:"";
+  clear:both;
+  display:block;
+}
+
 .photo{
   float:left;
   margin-right:15px;
