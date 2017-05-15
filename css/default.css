@@ -39,13 +39,14 @@ th,td{
 
 th{
   background-color:#0000ff;
+  color:#ffffff;
   padding:5px;
   width:100px;
   text-align:right;
 }
 
 tr{
-  background-color:white;
+  background-color:#ffffff;
   padding:5px;
   width:100px;
   text-align:right;
