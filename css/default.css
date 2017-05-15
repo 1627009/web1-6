@@ -41,15 +41,16 @@ th{
   background-color:#0000ff;
   color:#ffffff;
   padding:5px;
-  width:200px;
+  width:300px;
   text-align:right;
 }
 
 tr{
   background-color:#ffffff;
+  
   padding:5px;
   width:100px;
-  text-align:right;
+  text-align:center;
 }
 
 .btn{
